@@ -1,23 +1,9 @@
 ### Anchor Vault Program
 
 Solana Turbin3
-
-
 All tests passing
 
-```bash
-
-  anchor_vault
-    ✔ Initialize the vault (406ms)
-    ✔ Deposit SOL into the vault (425ms)
-    ✔ Withdraw SOL from the vault (429ms)
-    ✔ Close the vault (431ms)
-
-
-  4 passing (3s)
-
-
-```
+<img width="1460" height="615" alt="image" src="https://github.com/user-attachments/assets/8a3e77d1-1ff6-48fc-a37e-7ab8e4ba663f" />
 
 #### Deployement
 
