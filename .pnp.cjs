@@ -29,6 +29,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@coral-xyz/anchor", "npm:0.32.1"],\
+          ["@solana/web3.js", "npm:1.98.4"],\
           ["@types/bn.js", "npm:5.2.0"],\
           ["@types/chai", "npm:4.3.20"],\
           ["@types/mocha", "npm:9.1.1"],\
@@ -1921,6 +1922,7 @@ const RAW_RUNTIME_STATE =
         "packageLocation": "./",\
         "packageDependencies": [\
           ["@coral-xyz/anchor", "npm:0.32.1"],\
+          ["@solana/web3.js", "npm:1.98.4"],\
           ["@types/bn.js", "npm:5.2.0"],\
           ["@types/chai", "npm:4.3.20"],\
           ["@types/mocha", "npm:9.1.1"],\
